@@ -1,0 +1,7 @@
+{
+  "name": "GA CPD Registration",
+  "description": "Mobile-first registration form for Galvanizers Association CPD certificates with AI-powered address lookup.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
